@@ -1,2 +1,2 @@
 # Nexi
-Nexi is a simple DBMS (Database Management System)*
+Nexi is a simple DBMS (Database Management System)
